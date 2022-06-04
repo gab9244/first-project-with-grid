@@ -82,6 +82,9 @@
         color:var(--cor2) ;
 
     }
+    footer {
+        color: black;
+    }
 
 @media (max-width: 50rem) {
     .grid-container {

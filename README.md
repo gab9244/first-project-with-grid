@@ -1,3 +1,3 @@
 # first-project-with-grid
  My first project with grid
-  <a href=" https://gab9244.github.io/first-project-with-grid/">The project</a>
+  <a href=" https://github.com/gab9244/first-project-with-grid/blob/main/index.html">The project</a>

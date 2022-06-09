@@ -1,8 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Akshar:wght@490;500&family=Bebas+Neue&family=Hurricane&family=Karla:wght@400;700&display=swap');
  
-* {
-   
-}
+
 :root {
     --cor0: hsl(179, 62%, 43%);
     --cor1: hsl(71, 73%, 54%);
@@ -14,7 +12,7 @@
     body {
         display: grid;
         font-family: 'Karla', sans-serif;
-        height: 100vh;
+        height: 80vh;
         place-items: center;
 
     }
@@ -24,6 +22,7 @@
     grid-template-areas: 'header header'
                         'article aside';
         max-width: 600px;
+        width: 100%;
         box-shadow: -1px 3px 10px grey; 
     }
     .grid-items {
